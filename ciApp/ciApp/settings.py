@@ -30,7 +30,6 @@ from my_secrets import *
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-# SECRET_KEY = 'django-insecure-xrrm((tz3r79p(19=%721wc3u!g+-f-0-b!bp8-1#ie98pt)kg'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = True
